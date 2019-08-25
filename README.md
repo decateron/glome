@@ -5,3 +5,5 @@ Glome is a free software machine learning library for the Python programming lan
  #### The main goal of Glome is to provide classic ML algorithms for studying.
  
  One of the most main advantages of Glome is that it supports categorical data.
+ 
+## Algorithms available for now:
